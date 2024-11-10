@@ -1,7 +1,8 @@
+/* eslint-disable no-undef */
 const path = require("path");
 const webpack = require("webpack");
 
-const entryPath = "00-inf04_CKU_Sopot/01-projekt";
+const entryPath = "00-inf04_CKU_Sopot/04-projekt";
 
 module.exports = {
   mode: "none",

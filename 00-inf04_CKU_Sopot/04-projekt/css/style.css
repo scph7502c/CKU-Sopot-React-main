@@ -1,0 +1,42 @@
+.btn{
+	padding: 20px;
+	color: white;
+	background-color: green;
+	border: 2px solid black;
+}
+
+.btn:hover{
+
+	background-color: black;
+}
+
+.art{
+	width: 400px;
+	border: 1px solid rgb(206, 32, 197);
+	padding: 10px;
+	margin: 10px;
+}
+
+.art-title{
+	font-size: 20px;
+	font-weight: 800;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+
+.art-content{
+	font-size: 14px;
+	text-align: justify;
+	margin-bottom: 20px;
+}
+
+.art-footer{
+	display: flex;
+	justify-content: space-between;
+	font-size: 10px;
+	font-weight: 900;
+	margin: 10px;
+}
+
