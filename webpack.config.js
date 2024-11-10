@@ -1,7 +1,7 @@
 const path = require("path");
 const webpack = require("webpack");
 
-const entryPath = "00-inf04_CKU_Sopot/00-Projekt_testowy";
+const entryPath = "00-inf04_CKU_Sopot/01-projekt";
 
 module.exports = {
   mode: "none",
